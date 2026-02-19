@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Hello World App Initialized");
+    console.log("Welcome App Initialized");
     
     // Select elements
     const container = document.querySelector(".container");
@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // Optional: Dynamic greeting based on time of day
     const hour = new Date().getHours();
-    let timeGreeting = "Hello World";
+    let timeGreeting = "Welcome";
     
     // Uncomment below to enable time-based greeting
     /*
