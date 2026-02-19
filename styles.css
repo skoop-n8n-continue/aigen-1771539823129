@@ -52,7 +52,7 @@ body {
 h1 {
     font-size: 10vmin; /* Responsive font size based on viewport minimum dimension */
     font-weight: 700;
-    margin-bottom: 2vmin;
+    
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     letter-spacing: 0.05em;
     background: linear-gradient(to right, #ffffff, #e0e0e0);
